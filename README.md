@@ -1,29 +1,48 @@
 
-## **Мы работает вместе над практическими работами в колледже** 
-#
-
 ## **About Us:**
 
  Как нас зовут:
  * Костя
  * Артём
 
- Место нашего обучения: [Колледж информатики и программирования при финансовом университете](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
+ *Место нашего обучения:* [Колледж информатики и программирования при финансовом университете](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
 
- Курс: 4 курс
- 
+ *Курс:* 4 
 
  
+## с чем мы уже работали:
+
+__*C#:*__
+* MVVM 
+* Entity framework 
+
+>p.s: 
+>
+>Всегда использовали свою простейщую mvvm основну (базовые viemodel + comamds).
+>
+>Entity framework использовали на уровне прямого подключения к локальной базе и к базе на серверах AZURE
+
+
+__*Github:*__
+* Работа из под VS19
+* Работа через Git Bash 
+>p.s: В рамках инициативы преподователя проходили обучающий курс по командам гита, но в основном пользовались им через VS
+
+__*SQL:*__
+* Импорт/Экспорт данных
+* Написание вложенных запросов
+* Написание Join запросов
+
+>p.s: Проходили давно, но при необходимости быстро восстановим знания
+
+
 
 
 ## **Languages and tools**
-![c#](https://img.shields.io/badge/-c#-1C1C22?style=for-the-badge&logo=.net)
 ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql)
 ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net)
 
 
-
 ## **Links**
-
 [![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk)](https://m.vk.com/id506987182)
-[![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=yellow)](https://m.vk.com/jessnjake)
+[![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk)](https://m.vk.com/jessnjake)
