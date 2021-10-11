@@ -1,5 +1,5 @@
 
-## **About Us:**
+## **О нас:**
 
  Как нас зовут:
  * Костя
@@ -71,12 +71,13 @@
 
 
 
-## **Languages and tools**
+## **Языки и инструменты:**
 ![C#](https://img.shields.io/badge/-C_sharp-1C1C22?style=for-the-badge&logo=csharp)
 ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql)
 ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net)
+![PlantUml](https://img.shields.io/badge/-PlantUml-1C1C22?style=for-the-badge&logo=PlantUml)
 
 
-## **Links**
+## **Свзяь с нами:**
 [![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://m.vk.com/id506987182)
 [![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://m.vk.com/jessnjake)
