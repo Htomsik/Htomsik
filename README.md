@@ -29,7 +29,6 @@
 >
 >Во время написания кода приложений часто используем свои сниппеты для ускорения разработки. 
 
-
  ![Github](https://img.shields.io/badge/-Git-1C1C22?style=for-the-badge&logo=git&color=32409A)
 * Работа из под VS19
 * Работа через Git Bash 
@@ -42,6 +41,7 @@
 * Простейщие запросы (select, delete, update и тд.)
 * Написание вложенных запросов
 * Написание Join запросов
+* Работа с различными соединениями (Cross, Inner, Outer) и с оператором Cross Apply
 
 >__Р.s:__
 >
@@ -74,5 +74,5 @@
 
 
 ## **Свзяь с нами:**
-[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://m.vk.com/id506987182)
-[![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://m.vk.com/jessnjake)
+[![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://vk.com/id506987182)
+[![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/jessnjake)
