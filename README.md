@@ -1,6 +1,6 @@
 
 ![Logo](https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/collage.png)
-## **О нас:**
+## **О нас**
 
  Как нас зовут:
  * Костя
@@ -12,7 +12,7 @@
 
 ---
 
-## с чем мы уже работали:
+## с чем мы уже работали
 
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
 * Winforms
@@ -23,11 +23,11 @@
 
 >__Р.s:__
 >
->Всегда использовали свою простейщую mvvm основну (базовые viemodel + comamds).
+>Всегда использовали свою простую mvvm основну (базовые viemodel + comamds).
 >
 >Entity framework использовали на уровне прямого подключения к локальной базе и к базе на серверах AZURE
 >
->Неплохо понимаем Xaml разметку (в сравнении с одногрупниками). Можем переопределить стандартный шаблон элемента, сделать простые/мульти/дата тригеры, а так же сделать datatemplate при необходимости.
+>Неплохо понимаем Xaml разметку (в сравнении с одногруппниками). Можем переопределить стандартный шаблон элемента, сделать простые/мульти/дата тригеры, а так же сделать datatemplate при необходимости.
 >
 >Во время написания кода приложений часто используем свои сниппеты для ускорения разработки. 
 
@@ -37,10 +37,10 @@
 
 >__Р.s:__
 >
-> В рамках инициативы преподователя проходили обучающий курс по командам гита, но в основном пользовались им через VS
+> В рамках инициативы преподавателя проходили обучающий курс по командам гита, но в основном пользовались им через VS
 
  ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql&color=32409A)
-* Простейщие запросы (select, delete, update и тд.)
+* Простые запросы (select, delete, update и тд.)
 * Написание вложенных запросов
 * Написание Join запросов
 * Работа с различными соединениями (Cross, Inner, Outer) и с оператором Cross Apply
@@ -69,13 +69,13 @@
 
 ---
 
-## **Языки и инструменты:**
+## **Языки и инструменты**
 ![C#](https://img.shields.io/badge/-C_sharp-1C1C22?style=for-the-badge&logo=csharp)
 ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql)
 ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net)
 ![PlantUml](https://img.shields.io/badge/-PlantUml-1C1C22?style=for-the-badge&logo=PlantUml)
 
 
-## **Свзяь с нами:**
+## **Связь с нами**
 [![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://vk.com/id506987182)
 [![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/jessnjake)
