@@ -10,6 +10,8 @@
 
  *Курс:* 4 
 
+---
+
 ## с чем мы уже работали:
 
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
@@ -65,6 +67,7 @@
 >
 >Все диаграммы строили на [Plantext](https://www.planttext.com/), но также умеем работать в Visio или [Draw.io](https://app.diagrams.net/)
 
+---
 
 ## **Языки и инструменты:**
 ![C#](https://img.shields.io/badge/-C_sharp-1C1C22?style=for-the-badge&logo=csharp)
