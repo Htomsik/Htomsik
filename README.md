@@ -12,7 +12,7 @@
 
 ## с чем мы уже работали:
 
-### ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
+ ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
 * Winforms
 * WPF
 * MVVM (в wpf проектах)
@@ -30,7 +30,7 @@
 >Во время написания кода приложений часто используем свои сниппеты для ускорения разработки. 
 
 
- ### ![Github](https://img.shields.io/badge/-Git-1C1C22?style=for-the-badge&logo=git&color=32409A)
+ ![Github](https://img.shields.io/badge/-Git-1C1C22?style=for-the-badge&logo=git&color=32409A)
 * Работа из под VS19
 * Работа через Git Bash 
 
@@ -38,7 +38,7 @@
 >
 > В рамках инициативы преподователя проходили обучающий курс по командам гита, но в основном пользовались им через VS
 
- ### ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql&color=32409A)
+ ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql&color=32409A)
 * Простейщие запросы (select, delete, update и тд.)
 * Написание вложенных запросов
 * Написание Join запросов
@@ -49,7 +49,7 @@
 >
 >Вложенные и Join запросы проходили давно, но при необходимости быстро восстановим знания
 
- ### ![diagram](https://img.shields.io/badge/-diagrams-1C1C22?style=for-the-badge&logo=&color=32409A)
+ ![diagram](https://img.shields.io/badge/-diagrams-1C1C22?style=for-the-badge&logo=&color=32409A)
 
 * Диаграмма переходов состояний
 * Диаграмма "Сущность связь"
@@ -64,7 +64,6 @@
 >Все диаграммы изучали постепенно в течении 3-го курса на примере приложения "Городской телефонный справочник"
 >
 >Все диаграммы строили на [Plantext](https://www.planttext.com/), но также умеем работать в Visio или [Draw.io](https://app.diagrams.net/)
-
 
 
 ## **Языки и инструменты:**
