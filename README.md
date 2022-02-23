@@ -2,14 +2,9 @@
 ![Logo](https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/collage.png)
 ## **О нас**
 
- Как нас зовут:
- * Костя
- * Артём
-
  *Место обучения:* [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
-
+ 
  *Курс:* 4 
-
 ---
 
 ## С чем работал
