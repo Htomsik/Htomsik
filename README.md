@@ -12,7 +12,7 @@
 
 ---
 
-## C чем мы уже работали
+## С чем работал
 
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
 * Winforms
@@ -21,21 +21,26 @@
 * Entity framework 
 * Базовая работа с JS форматом
 
->__Р.s:__
+>Всегда использовал свою простую mvvm основну (базовые viemodel + comamds + иногда шины сообщений).
 >
->Всегда использовали свою простую mvvm основну (базовые viemodel + comamds + иногда шины сообщений).
->
->Entity framework использовали на уровне прямого подключения к локальной базе и к базе на серверах AZURE
->
->Неплохо понимаем Xaml разметку. Можем переопределить стандартный шаблон почти всех элементов, сделать простые/мульти/дата тригеры не составляет труда и всю сопуствующую базу.
+>Entity framework использовал на уровне прямого подключения к локальной базе и к базе на серверах AZURE.
+
+
+ ![.JS](https://img.shields.io/badge/-JS+HTML-1C1C22?style=for-the-badge&logo=nodedotjs&color=32409A)
+
+* Основы HTML
+* Основы JS
+* Основы JQery
+
+>[Ссылка на практические работы, которые сохранил](https://drive.google.com/drive/folders/1skoMhCZXXTCEM_1-fFLIsImJ7zj84ItX?usp=sharing)
+
 
  ![Github](https://img.shields.io/badge/-Git-1C1C22?style=for-the-badge&logo=git&color=32409A)
 * Работа из под VS19
 * Работа через Git Bash 
 
->__Р.s:__
->
-> В рамках инициативы преподавателя проходили обучающий курс по командам гита, но в основном пользовались им через VS
+
+> В рамках инициативы преподавателя проходили обучающий курс по командам гита, но в основном пользовался им через VS
 
  ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql&color=32409A)
 * Простые запросы (select, delete, update и тд.)
@@ -43,9 +48,7 @@
 * Написание Join запросов
 * Работа с различными соединениями (Cross, Inner, Outer) и с оператором Cross Apply
 
->__Р.s:__
->
->Использовали Microsoft SQL server (12,18),HeidiSql (В рамках заказа для производственно практики. Знаем на самом базовом уровне), а так же немного Azure Data Studio
+>Использовал Microsoft SQL server (12,18). HeidiSql на базе MariaDB (В рамках заказа для производственно практики. Изучаю в данный момент), а так же немного Azure Data Studio.
 
  ![diagram](https://img.shields.io/badge/-diagrams-1C1C22?style=for-the-badge&logo=&color=32409A)
 
@@ -57,19 +60,23 @@
 * Диаграмма деятельности
 * Диаграмма классов
 
->__Р.s:__
->Все диаграммы строили на [Plantext](https://www.planttext.com/), но также умеем работать в Visio или [Draw.io](https://app.diagrams.net/)
+>Все диаграммы строил на [Plantext](https://www.planttext.com/), но также умеем работать в Visio или [Draw.io](https://app.diagrams.net/)
 
 ---
 
 ## **Языки и инструменты**
 ![C#](https://img.shields.io/badge/-C_sharp-1C1C22?style=for-the-badge&logo=csharp)
+![JS](https://img.shields.io/badge/-JS-1C1C22?style=for-the-badge&logo=nodedotjs)
 ![SQl](https://img.shields.io/badge/-SQL-1C1C22?style=for-the-badge&logo=Mysql)
 ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net)
 ![PlantUml](https://img.shields.io/badge/-PlantUml-1C1C22?style=for-the-badge&logo=PlantUml)
 
 
-## **Связь с нами**
-[![Костя](https://img.shields.io/badge/-Костя-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/jessnjake)
+## **Связь со мной**
+[![Костя](https://img.shields.io/badge/-Константин-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/jessnjake)
+
+## **Ремарка**
+ ### Все сказанное выше относится и к моему партнеру по практическим работам:
+
 [![Артём](https://img.shields.io/badge/-Артём-1C1C22?style=for-the-badge&logo=vk&logoColor=red)](https://vk.com/id506987182)
 
