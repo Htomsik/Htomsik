@@ -1,12 +1,19 @@
 
 ![Logo](https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/collage.png)
-## **Обо мне*
+## Краткая сводка
 
- *Место обучения:* [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
+ *Имя:* Константин
+
+ *Место обучения: (4 курс)* [Колледж информатики и программирования Финансового университета при Правительстве Российской Федерации](http://www.fa.ru/org/spo/kip/Pages/Home.aspx)
  
- *Курс:* 4 
 ---
-
+## Проекты
+* Курсовая-Дипломная работа [Месенджер LiteCall](https://github.com/Htomsik/LiteCall)
+* [Практические работы за 3 курс .Net](https://github.com/Htomsik/Praktika3Kurs)
+* [Практические работы за 4 курс .Net](https://github.com/Htomsik/Praktika4Kurs)
+* [Практические работы за 4 курс JS](https://github.com/Htomsik/Praktika4Kurs)
+* [Список покупок .Net](https://github.com/Htomsik/Spisok)
+---
 ## С чем работал
 
  ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net&color=32409A)
@@ -66,9 +73,11 @@
 ![.Net](https://img.shields.io/badge/-Framework-1C1C22?style=for-the-badge&logo=.net)
 ![PlantUml](https://img.shields.io/badge/-PlantUml-1C1C22?style=for-the-badge&logo=PlantUml)
 
-
+---
 ## **Связь со мной**
 [![Костя](https://img.shields.io/badge/-Константин-1C1C22?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/jessnjake)
+
+---
 
 ## **Ремарка**
  ### Все сказанное выше относится и к моему партнеру по практическим работам:
