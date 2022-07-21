@@ -26,7 +26,7 @@
 
 <h2>Working on</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Htomsik&repo=LiteCall)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Htomsik&repo=LiteCall)](https://github.com/Htomsik/LiteCall)
 
 <h2>Socials</h2>
 
