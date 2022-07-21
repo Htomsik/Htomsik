@@ -1,4 +1,7 @@
 
+
+<div>
+
 <style>
 
 #CatImg:hover{
@@ -22,6 +25,8 @@ height:40px;
 </div>
 
 <h1 align="center">Hi , I'm Konstantin</h1>
+
+</div>
 
 
 ### Languages and Tools:
