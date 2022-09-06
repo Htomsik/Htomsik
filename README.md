@@ -1,11 +1,5 @@
 
 
-
-<p align="right"> 
-	<img src="https://komarev.com/ghpvc/?username=Htomsik&label=Profile%20views&color=0e75b6&style=plastic" alt="Htomsik" />
-</p>
-
-
 <div align="center">
 <img  id="CatImg" width="400" src="https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/ProileReadme/icon_cat.png">
 
