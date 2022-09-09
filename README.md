@@ -13,7 +13,6 @@
 
 <h1></h1>
 
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/jessnjake)
 
 </div>
