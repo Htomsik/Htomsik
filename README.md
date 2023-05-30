@@ -13,7 +13,7 @@
 
 <h1></h1>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htomsik&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Htomsik&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
