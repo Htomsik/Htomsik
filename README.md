@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img  id="CatImg" width="600px" src="https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/ProileReadme/icon_cat.png" alt="cat">
+![](https://media.tenor.com/aaEMtGfZFbkAAAAi/rat-spinning.gif)
 
-<h1>Hi</h1>
+<h1>Horizontally spining rat</h1>
 
 <img width="40" align="center"  class="LanguageTools" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" alt="Arch" />
 <img width="40" align="center" class="LanguageTools" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="Csharp" />
