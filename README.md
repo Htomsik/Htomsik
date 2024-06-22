@@ -13,7 +13,7 @@
 
 <h1></h1>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Htomsik&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Htomsik&theme=dark&hide_border=true&layout=compact&hide=HTML,CSS)
 
 [![](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode)](https://leetcode.com/Htomsik/)
 
