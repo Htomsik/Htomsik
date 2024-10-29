@@ -23,11 +23,6 @@
   <h1>HORIZONTALLY SPINNING RAT</h1>
   
   ![](https://media.tenor.com/aaEMtGfZFbkAAAAi/rat-spinning.gif)
-
-  <h1>JUST MY FRIND</h1>
-
-  ![](https://raw.githubusercontent.com/Htomsik/Htomsik/main/Assets/ProileReadme/Neaky.gif)
-  
 </details>
 
 </div>
